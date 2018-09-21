@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "219732694626",
+    "firebase_url": "https://facedetector-bc0ee.firebaseio.com",
+    "project_id": "facedetector-bc0ee",
+    "storage_bucket": "facedetector-bc0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219732694626:android:9094a0f8761aaeb8",
+        "android_client_info": {
+          "package_name": "com.example.android.facedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219732694626-gg967ftj3o637avh2tqqk1fcddt5vhlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.facedetector",
+            "certificate_hash": "ae802ed58f5b389e63732cb00067db89350004eb"
+          }
+        },
+        {
+          "client_id": "219732694626-mpo4njdgobkdssqaes7cb3tns95m4emo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_KoFxKWWyPCfcF8Qwf2myMv1KG4cMNU"
+        },
+        {
+          "current_key": "AIzaSyDT_KoFxKWWyPCfcF8Qwf2myMv1KG4cMNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219732694626-mpo4njdgobkdssqaes7cb3tns95m4emo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
